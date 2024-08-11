@@ -1,6 +1,5 @@
 import React from "react";
 import twofourserviceImg from "../images/24hourService.jpg";
-import img2 from "../images/app.svg";
 import img3 from "../images/tires.webp";
 import img4 from "../images/repair-shop.png";
 
@@ -17,8 +16,7 @@ const Services = () => {
             <div className="w-24 border-b-4 border-blue-900"></div>
           </div>
           <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">
-            `` We provide a wide range of services to help you get back on the
-            road
+            We provide a wide range of services to help you get back on the road
           </h2>
         </div>
         <div className="px-12" data-aos="fade-down" data-aos-delay="600">
