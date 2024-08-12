@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/midtenndieselweb/static/css/main.5c134b3c.css",
-    "main.js": "/midtenndieselweb/static/js/main.e31f0434.js",
+    "main.css": "/midtenndieselweb/static/css/main.8a04b8a4.css",
+    "main.js": "/midtenndieselweb/static/js/main.e25dfab2.js",
     "static/media/repair-shop.png": "/midtenndieselweb/static/media/repair-shop.70f9be354359b76560df.png",
     "static/media/main-page-truck.jpg": "/midtenndieselweb/static/media/main-page-truck.75a487acb72256778f15.jpg",
     "static/media/tires.webp": "/midtenndieselweb/static/media/tires.f93666fe92c58fa2b348.webp",
@@ -10,11 +10,11 @@
     "static/media/footer.svg": "/midtenndieselweb/static/media/footer.f7b67a1234a7ce02c909.svg",
     "index.html": "/midtenndieselweb/index.html",
     "static/media/hero-bg.svg": "/midtenndieselweb/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
-    "main.5c134b3c.css.map": "/midtenndieselweb/static/css/main.5c134b3c.css.map",
-    "main.e31f0434.js.map": "/midtenndieselweb/static/js/main.e31f0434.js.map"
+    "main.8a04b8a4.css.map": "/midtenndieselweb/static/css/main.8a04b8a4.css.map",
+    "main.e25dfab2.js.map": "/midtenndieselweb/static/js/main.e25dfab2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c134b3c.css",
-    "static/js/main.e31f0434.js"
+    "static/css/main.8a04b8a4.css",
+    "static/js/main.e25dfab2.js"
   ]
 }
