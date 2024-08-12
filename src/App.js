@@ -28,9 +28,11 @@ function App() {
 
   useDocTitle("Midd-Tenn Diesel Repair Shop");
 
+  console.log("Hello WorldV2");
+
   return (
     <>
-      <Router>
+      <Router basename="/midtenndieselweb">
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />

@@ -1,40 +1,10 @@
 import React, { useState } from "react";
 
 const Portfolio = () => {
-  const [firstName, setFirstName] = useState("");
-  const [lastName, setLastName] = useState("");
-  const [email, setEmail] = useState("");
-  const [phone, setPhone] = useState("");
-  const [message, setMessage] = useState("");
-  const [errors, setErrors] = useState([]);
-
-  const clearErrors = () => {
-    setErrors([]);
-  };
-
-  const clearInput = () => {
-    setFirstName("");
-    setLastName("");
-    setEmail("");
-    setPhone("");
-    setMessage("");
-  };
-
-  //   const sendEmail = (e) => {
-  //     e.preventDefault();
-  //     document.getElementById("submitBtn").disabled = true;
-  //     document.getElementById("submitBtn").innerHTML = "Loading...";
-  //     let fData = new FormData();
-  //     fData.append("first_name", firstName);
-  //     fData.append("last_name", lastName);
-  //     fData.append("email", email);
-  //     fData.append("phone_number", phone);
-  //     fData.append("message", message);
-
   return (
     <div
       id="contact"
-      className="flex justify-center items-center mt-8 w-full bg-white py-12 lg:py-24 max-w-[35%] mx-auto"
+      className="flex justify-center items-center mt-8 w-full bg-white py-12 lg:py-24 mx-auto"
     >
       <div
         className="container mx-auto my-8 lg:px-20 min-h-max"
@@ -57,7 +27,7 @@ const Portfolio = () => {
                 <div className="flex flex-col pt-6">
                   <h2 className="text-2xl text-center">Office Address</h2>
                   <p className="text-gray-400 text-center">
-                    2205 Center Point Rd, Dunlap, TN 37075
+                    8 Ireland Dr, Dunlap, TN 37075
                   </p>
                 </div>
               </div>

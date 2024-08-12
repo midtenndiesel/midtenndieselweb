@@ -187,7 +187,7 @@ const Contact = () => {
                 <div className="flex flex-col">
                   <h2 className="text-2xl">Office Address</h2>
                   <p className="text-gray-400">
-                    2205 Center Point Rd, Dunlap, TN 37075
+                    8 Ireland Dr, Dunlap, TN 37075
                   </p>
                 </div>
               </div>
