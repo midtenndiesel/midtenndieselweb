@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { FaMapPin } from "react-icons/fa";
 
 const Portfolio = () => {
   return (
@@ -26,8 +27,13 @@ const Portfolio = () => {
                 </div>
                 <div className="flex flex-col pt-6">
                   <h2 className="text-2xl text-center">Office Address</h2>
-                  <p className="text-gray-400 text-center">
-                    8 Ireland Dr, Dunlap, TN 37075
+                  <p className="text-white-900 text-center flex items-center gap-x-2">
+                    <a href="https://www.google.com/maps/search/?api=1&query=8+Ireland+Dr,+Dunlap,+TN+37075">
+                      8 Ireland Dr, Dunlap, TN 37075
+                    </a>
+                    <a href="https://www.google.com/maps/search/?api=1&query=8+Ireland+Dr,+Dunlap,+TN+37075">
+                      <FaMapPin />
+                    </a>
                   </p>
                 </div>
               </div>
@@ -35,13 +41,13 @@ const Portfolio = () => {
               <div className="flex justify-center items-center  pt-6">
                 <div className="flex flex-col">
                   <h2 className="text-2xl text-center">Call Us</h2>
-                  <p className="text-gray-400 text-center">
-                    Tel: (615) 925-0118
+                  <p className="text-white-900 text-center">
+                    <a href="tel:615-925-0118">Tel: (615) 925-0118</a>
                   </p>
 
                   <div className="mt-5 pb-6">
                     <h2 className="text-2xl text-center">Send an E-mail</h2>
-                    <p className="text-gray-400 text-center">
+                    <p className="text-white-900 text-center">
                       middtenndiesel@aol.com
                     </p>
                   </div>

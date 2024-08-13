@@ -1,1 +1,1 @@
-Website for Midd-Tenn Diesel Repair Shop
+Website for Mid-Tenn Diesel Repair Shop

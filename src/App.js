@@ -26,7 +26,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Midd-Tenn Diesel Repair Shop");
+  useDocTitle("Mid-Tenn Diesel Repair Shop");
 
   console.log("Hello WorldV2");
 
